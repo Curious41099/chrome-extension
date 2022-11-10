@@ -5,5 +5,5 @@
 <h3>Links</h3>
 <ul>
   <li><a href="https://lovely-cheesecake-7677d5.netlify.app">Live site URL</a></li>
-  
+  <li><a href="https://github.com/Curious41099/chrome-extension">Project Repository</a></li>
 </ul>
